@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "matrixdist"]
 	path = matrixdist
-	url = https://github.com/cran/matrixdist
+	url = https://github.com/martinbladt/matrixdist_1.0
 	shallow = true
 	registered = true
